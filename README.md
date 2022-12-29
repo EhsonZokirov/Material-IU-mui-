@@ -26,5 +26,6 @@ Material-UI — это просто библиотека, которая поз�
 
 + import * as React from 'react';
 + import Button from '@mui/material/Button';
-      <Button variant="contained">Hello World</Button>
+
+# <Button variant="contained">Hello World</Button>
 ----
