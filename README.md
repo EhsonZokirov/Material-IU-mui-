@@ -17,9 +17,9 @@ Material-UI — это просто библиотека, которая поз�
 писать все с нуля.
 ------
 # УСТОНОВКА:
-# npm
+# npm:
  * npm install @mui/material @emotion/react @emotion/styled
-# yarn
+# yarn:
  * yarn add @mui/material @emotion/react @emotion/styled
 -----
 # ИСПОЛЬЗОВАНИЕ :
