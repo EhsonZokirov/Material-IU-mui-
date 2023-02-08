@@ -29,9 +29,9 @@ Material-UI — это просто библиотека, которая поз�
 
 - export default function MyApp() {
 - return (
--    <div>
+   <div>
 - `${<Button variant="contained">Hello World</Button>}`
--    </div>
+    </div>
 -  );
 - }
 ----
