@@ -30,7 +30,7 @@ Material-UI — это просто библиотека, которая поз�
 - export default function MyApp() {
 - return (
    <div>
-- {<Button variant="contained">Hello World</Button>}
+- `<Button variant="contained">Hello World</Button>`
     </div>
 -  );
 - }
